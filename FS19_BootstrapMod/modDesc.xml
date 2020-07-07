@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="51">
+  
+    <author>YOUR NAME - CHANGE THIS!</author>  
+    <version>1.0.0.0</version>
+	
+    <title>
+      <en>YOUR MOD TITLE (ENGLISH) - CHANGE THIS!</en>
+    </title>
+	
+    <description>
+        <en><![CDATA[ DO NOT FORGET A DESCRIPTION - CHANGE THIS! ]]></en>
+    </description>
+
+    <iconFilename>modIcon.dds</iconFilename>
+
+    <multiplayer supported="true"/>
+
+    <extraSourceFiles>
+      <sourceFile filename="lib/modhelper.lua"/>
+      <sourceFile filename="YOURMOD_RENAME_THIS_FILE.lua"/>
+    </extraSourceFiles>
+
+</modDesc>
